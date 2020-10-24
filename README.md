@@ -7,6 +7,7 @@ given string is accepted or rejected by that model.
 ![](https://img.shields.io/github/issues/rushilrai/FLA-WebApp?color=red&style=for-the-badge)
 ![](https://img.shields.io/github/issues-closed/rushilrai/FLA-WebApp?color=green&style=for-the-badge)
 ![](https://img.shields.io/github/issues-pr-closed/rushilrai/FLA-WebApp?color=blue&style=for-the-badge)
+![](https://img.shields.io/github/workflow/status/mihirs16/FLA-WebApp/Build%20and%20deploy%20Python%20app%20to%20Azure%20Web%20App%20-%20sand-fla/master?label=Azure%20Deploy%20Build&style=for-the-badge)
 
 ## Getting Started
 
